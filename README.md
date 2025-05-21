@@ -2,6 +2,15 @@
 
 A simple API microservice that parses date strings and returns both Unix timestamp and UTC string formats.
 
+## Project Background
+
+This project is part of the freeCodeCamp "Back End Development and APIs" certification. It builds on skills acquired in previous sections:
+
+* Managing Packages with NPM (✓ COMPLETED)
+* Basic Node and Express (✓ COMPLETED)
+* MongoDB and Mongoose (✓ COMPLETED)
+* Backend APIs and Microservices Projects (⏳ IN PROGRESS)
+
 ## Features
 
 This microservice provides a date conversion endpoint:
